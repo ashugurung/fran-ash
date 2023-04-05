@@ -25,3 +25,7 @@ GitHub
 3. base repo as collaborator and head as creator of repo
 4. comment and merge request
 
+Person receiving change:
+1. approve 
+2. confirm merge
+
